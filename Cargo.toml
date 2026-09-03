@@ -1,6 +1,0 @@
-[package]
-name = "so-how-do-i-make-a-git-repo"
-version = "0.1.0"
-edition = "2024"
-
-[dependencies]
